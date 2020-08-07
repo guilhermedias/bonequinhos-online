@@ -8,8 +8,8 @@ subtitle: 'Meus bonequinhos online'
 description: ''
 keywords:
 author: Guilherme Dias
-language: en
-timezone: ''
+language: pt-BR
+timezone: 'America/Sao_Paulo'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -99,6 +99,12 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: next
+
+theme_config:
+  footer:
+    powered: false
+    icon:
+      color: '#313638'
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
