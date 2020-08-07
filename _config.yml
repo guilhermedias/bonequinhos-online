@@ -4,12 +4,12 @@
 
 # Site
 title: Bonequinhos Online
-subtitle: 'Meus bonequinhos online'
-description: ''
+subtitle: Meus bonequinhos online.
+description:
 keywords:
 author: Guilherme Dias
 language: pt-BR
-timezone: 'America/Sao_Paulo'
+timezone: America/Sao_Paulo
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -109,4 +109,6 @@ theme_config:
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: ''
+  type: git
+  repo: git@github.com:guilhermedias/bonequinhos-online.git
+  branch: production
