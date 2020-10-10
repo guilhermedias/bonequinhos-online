@@ -110,11 +110,6 @@ theme_config:
     tracking_id: UA-180178408-1
     only_pageview: false
 
-  disqus:
-    enable: true
-    shortname: bonequinhos-online
-    count: false
-
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
