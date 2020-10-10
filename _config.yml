@@ -110,6 +110,9 @@ theme_config:
     tracking_id: UA-180178408-1
     only_pageview: false
 
+  sidebar:
+    display: remove
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
