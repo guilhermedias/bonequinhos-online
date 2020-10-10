@@ -106,6 +106,10 @@ theme_config:
     icon:
       color: '#313638'
 
+  google_analytics:
+    tracking_id: UA-180178408-1
+    only_pageview: false
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
